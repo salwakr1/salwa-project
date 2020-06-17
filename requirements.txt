@@ -2,5 +2,5 @@ voila
 voila-material
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 statistics
